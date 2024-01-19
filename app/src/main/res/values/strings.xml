@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lab05</string>
+    <string name="act1text">Input text:</string>
+    <string name="act1edit">Text</string>
+    <string name="btn_opendialog">Open Dialog</string>
+    <string name="btn_exitapp">Exit app</string>
+    <string name="act2ok">OK</string>
+    <string name="act2cancel">CANCEL</string>
+    <string name="box_true">true</string>
+    <string name="box_false">false</string>
+    <string name="switchy">Boolean</string>
+</resources>
